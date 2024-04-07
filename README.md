@@ -12,7 +12,7 @@ Este repositorio contiene un pipeline para un proyecto desarrollado con Streamli
 
 [SonarCloud](https://sonarcloud.io/) es una plataforma en la nube para análisis de código estático. Identifica problemas de calidad del código, vulnerabilidades de seguridad y ofrece sugerencias de mejora para tu código Python.
 
-![./Img/SonarCloud.png]
+![](./Img/SonarCloud.png)
 
 ## Ejecución del Proyecto Streamlit
 
